@@ -268,8 +268,8 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0210 |[Course Schedule II](src/main/kotlin/g0201_0300/s0210_course_schedule_ii/Solution.kt)| Medium | Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Graph, Topological_Sort | 266 | 96.32
-| 0815 |[Bus Routes](src/main/kotlin/g0801_0900/s0815_bus_routes/Solution.kt)| Hard | Array, Hash_Table, Breadth_First_Search | 429 | 100.00
+| 0210 |[课程表 II](src/main/kotlin/g0201_0300/s0210_course_schedule_ii/Solution.kt)| Medium | Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Graph, Topological_Sort | 266 | 96.32
+| 0815 |[公交路线](src/main/kotlin/g0801_0900/s0815_bus_routes/Solution.kt)| Hard | Array, Hash_Table, Breadth_First_Search | 429 | 100.00
 
 #### Day 12 Dynamic Programming
 
@@ -290,7 +290,7 @@
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0003 |[无重复字符的最长子串](src/main/kotlin/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 201 | 87.28
-| 0016 |[3Sum Closest](src/main/kotlin/g0001_0100/s0016_3sum_closest/Solution.kt)| Medium | Array, Sorting, Two_Pointers | 163 | 100.00
+| 0016 |[最接近的三数之和](src/main/kotlin/g0001_0100/s0016_3sum_closest/Solution.kt)| Medium | Array, Sorting, Two_Pointers | 163 | 100.00
 | 0076 |[最小覆盖子串](src/main/kotlin/g0001_0100/s0076_minimum_window_substring/Solution.kt)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(s.length())_Space_O(1) | 191 | 96.38
 
 #### Day 15 Tree
@@ -307,28 +307,28 @@
 |-|-|-|-|-|-
 | 0232 |[用栈实现队列](src/main/kotlin/g0201_0300/s0232_implement_queue_using_stacks/MyQueue.kt)| Easy | Stack, Design, Queue | 258 | 70.86
 | 0155 |[最小栈](src/main/kotlin/g0101_0200/s0155_min_stack/MinStack.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 331 | 84.88
-| 0208 |[Implement Trie (Prefix Tree)](src/main/kotlin/g0201_0300/s0208_implement_trie_prefix_tree/Trie.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Design, Trie, Big_O_Time_O(word.length())_or_O(prefix.length())_Space_O(N) | 689 | 61.00
+| 0208 |[实现 Trie (前缀树)](src/main/kotlin/g0201_0300/s0208_implement_trie_prefix_tree/Trie.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Design, Trie, Big_O_Time_O(word.length())_or_O(prefix.length())_Space_O(N) | 689 | 61.00
 
 #### Day 17 Interval
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0057 |[Insert Interval](src/main/kotlin/g0001_0100/s0057_insert_interval/Solution.kt)| Medium | Array | 249 | 75.63
+| 0057 |[插入区间](src/main/kotlin/g0001_0100/s0057_insert_interval/Solution.kt)| Medium | Array | 249 | 75.63
 | 0056 |[合并区间](src/main/kotlin/g0001_0100/s0056_merge_intervals/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Big_O_Time_O(n_log_n)_Space_O(n) | 334 | 80.67
 
 #### Day 18 Stack
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0735 |[Asteroid Collision](src/main/kotlin/g0701_0800/s0735_asteroid_collision/Solution.kt)| Medium | Array, Stack | 243 | 100.00
-| 0227 |[Basic Calculator II](src/main/kotlin/g0201_0300/s0227_basic_calculator_ii/Solution.kt)| Medium | String, Math, Stack | 383 | 62.50
+| 0735 |[小行星碰撞](src/main/kotlin/g0701_0800/s0735_asteroid_collision/Solution.kt)| Medium | Array, Stack | 243 | 100.00
+| 0227 |[基本计算器 II](src/main/kotlin/g0201_0300/s0227_basic_calculator_ii/Solution.kt)| Medium | String, Math, Stack | 383 | 62.50
 
 #### Day 19 Union Find
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0547 |[Number of Provinces](src/main/kotlin/g0501_0600/s0547_number_of_provinces/Solution.kt)| Medium | Depth_First_Search, Breadth_First_Search, Graph, Union_Find | 229 | 79.73
-| 0947 |[Most Stones Removed with Same Row or Column](src/main/kotlin/g0901_1000/s0947_most_stones_removed_with_same_row_or_column/Solution.kt)| Medium | Depth_First_Search, Graph, Union_Find | 200 | 100.00
+| 0547 |[省份数量](src/main/kotlin/g0501_0600/s0547_number_of_provinces/Solution.kt)| Medium | Depth_First_Search, Breadth_First_Search, Graph, Union_Find | 229 | 79.73
+| 0947 |[移除最多的同行或同列石头](src/main/kotlin/g0901_1000/s0947_most_stones_removed_with_same_row_or_column/Solution.kt)| Medium | Depth_First_Search, Graph, Union_Find | 200 | 100.00
 
 #### Day 20 Brute Force/Backtracking
 
@@ -347,7 +347,7 @@
 | 0136 |[只出现一次的数字](src/main/kotlin/g0101_0200/s0136_single_number/Solution.kt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 344 | 83.63
 | 0007 |[整数反转](src/main/kotlin/g0001_0100/s0007_reverse_integer/Solution.kt)| Medium | Top_Interview_Questions, Math | 149 | 77.89
 | 0009 |[回文数](src/main/kotlin/g0001_0100/s0009_palindrome_number/Solution.kt)| Easy | Math | 217 | 95.34
-| 0172 |[Factorial Trailing Zeroes](src/main/kotlin/g0101_0200/s0172_factorial_trailing_zeroes/Solution.kt)| Medium | Top_Interview_Questions, Math | 220 | 67.65
+| 0172 |[阶乘后的零](src/main/kotlin/g0101_0200/s0172_factorial_trailing_zeroes/Solution.kt)| Medium | Top_Interview_Questions, Math | 220 | 67.65
 | 0050 |[Pow(x, n)](src/main/kotlin/g0001_0100/s0050_powx_n/Solution.kt)| Medium | Top_Interview_Questions, Math, Recursion | 172 | 38.68
 
 #### Udemy Strings
@@ -356,7 +356,7 @@
 |-|-|-|-|-|-
 | 0344 |[反转字符串](src/main/kotlin/g0301_0400/s0344_reverse_string/Solution.kt)| Easy | String, Two_Pointers, Recursion | 445 | 69.75
 | 0014 |[最长公共前缀](src/main/kotlin/g0001_0100/s0014_longest_common_prefix/Solution.kt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String | 154 | 89.70
-| 0187 |[Repeated DNA Sequences](src/main/kotlin/g0101_0200/s0187_repeated_dna_sequences/Solution.kt)| Medium | String, Hash_Table, Bit_Manipulation, Sliding_Window, Hash_Function, Rolling_Hash | 319 | 79.03
+| 0187 |[重复的DNA序列](src/main/kotlin/g0101_0200/s0187_repeated_dna_sequences/Solution.kt)| Medium | String, Hash_Table, Bit_Manipulation, Sliding_Window, Hash_Function, Rolling_Hash | 319 | 79.03
 | 0003 |[无重复字符的最长子串](src/main/kotlin/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 201 | 87.28
 | 0020 |[有效的括号](src/main/kotlin/g0001_0100/s0020_valid_parentheses/Solution.kt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 137 | 88.76
 | 0005 |[最长回文子串](src/main/kotlin/g0001_0100/s0005_longest_palindromic_substring/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 162 | 99.00
@@ -364,7 +364,7 @@
 | 0242 |[有效的字母异位词](src/main/kotlin/g0201_0300/s0242_valid_anagram/Solution.kt)| Easy | String, Hash_Table, Sorting | 251 | 87.65
 | 0049 |[字母异位词分组](src/main/kotlin/g0001_0100/s0049_group_anagrams/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 308 | 96.34
 | 0151 |[反转字符串中的单词](src/main/kotlin/g0101_0200/s0151_reverse_words_in_a_string/Solution.kt)| Medium | String, Two_Pointers | 206 | 98.90
-| 0273 |[Integer to English Words](src/main/kotlin/g0201_0300/s0273_integer_to_english_words/Solution.kt)| Hard | String, Math, Recursion | 273 | 82.93
+| 0273 |[整数转换英文表示](src/main/kotlin/g0201_0300/s0273_integer_to_english_words/Solution.kt)| Hard | String, Math, Recursion | 273 | 82.93
 
 #### Udemy Binary Search
 
@@ -381,26 +381,26 @@
 | 0121 |[买卖股票的最佳时机](src/main/kotlin/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.kt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 609 | 94.06
 | 0283 |[移动零](src/main/kotlin/g0201_0300/s0283_move_zeroes/Solution.kt)| Easy | Top_100_Liked_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 516 | 79.07
 | 0001 |[两数之和](src/main/kotlin/g0001_0100/s0001_two_sum/Solution.kt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 202 | 91.18
-| 0217 |[Contains Duplicate](src/main/kotlin/g0201_0300/s0217_contains_duplicate/Solution.kt)| Easy | Top_Interview_Questions, Array, Hash_Table, Sorting | 719 | 73.49
-| 0058 |[Length of Last Word](src/main/kotlin/g0001_0100/s0058_length_of_last_word/Solution.kt)| Easy | String | 135 | 93.67
-| 0605 |[Can Place Flowers](src/main/kotlin/g0601_0700/s0605_can_place_flowers/Solution.kt)| Easy | Array, Greedy | 209 | 85.71
+| 0217 |[存在重复元素](src/main/kotlin/g0201_0300/s0217_contains_duplicate/Solution.kt)| Easy | Top_Interview_Questions, Array, Hash_Table, Sorting | 719 | 73.49
+| 0058 |[最后一个单词的长度](src/main/kotlin/g0001_0100/s0058_length_of_last_word/Solution.kt)| Easy | String | 135 | 93.67
+| 0605 |[种花问题](src/main/kotlin/g0601_0700/s0605_can_place_flowers/Solution.kt)| Easy | Array, Greedy | 209 | 85.71
 | 0122 |[买卖股票的最佳时机 II](src/main/kotlin/g0101_0200/s0122_best_time_to_buy_and_sell_stock_ii/Solution.kt)| Medium | Top_Interview_Questions, Array, Dynamic_Programming, Greedy | 197 | 95.10
-| 0080 |[Remove Duplicates from Sorted Array II](src/main/kotlin/g0001_0100/s0080_remove_duplicates_from_sorted_array_ii/Solution.kt)| Medium | Array, Two_Pointers | 192 | 80.67
-| 0189 |[Rotate Array](src/main/kotlin/g0101_0200/s0189_rotate_array/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 483 | 86.95
+| 0080 |[删除有序数组中的重复项 II](src/main/kotlin/g0001_0100/s0080_remove_duplicates_from_sorted_array_ii/Solution.kt)| Medium | Array, Two_Pointers | 192 | 80.67
+| 0189 |[轮转数组](src/main/kotlin/g0101_0200/s0189_rotate_array/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 483 | 86.95
 | 0055 |[跳跃游戏](src/main/kotlin/g0001_0100/s0055_jump_game/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 332 | 89.35
 | 0075 |[颜色分类](src/main/kotlin/g0001_0100/s0075_sort_colors/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 164 | 64.43
 | 0066 |[加一](src/main/kotlin/g0001_0100/s0066_plus_one/Solution.kt)| Easy | Top_Interview_Questions, Array, Math | 148 | 98.75
 | 0238 |[除自身以外数组的乘积](src/main/kotlin/g0201_0300/s0238_product_of_array_except_self/Solution.kt)| Medium | Top_100_Liked_Questions, Array, Prefix_Sum, Big_O_Time_O(n^2)_Space_O(n) | 669 | 48.96
-| 1291 |[Sequential Digits](src/main/kotlin/g1201_1300/s1291_sequential_digits/Solution.kt)| Medium | Enumeration | 114 | 100.00
+| 1291 |[顺次数](src/main/kotlin/g1201_1300/s1291_sequential_digits/Solution.kt)| Medium | Enumeration | 114 | 100.00
 | 0448 |[找到所有数组中消失的数字](src/main/kotlin/g0401_0500/s0448_find_all_numbers_disappeared_in_an_array/Solution.kt)| Easy | Array, Hash_Table | 394 | 100.00
-| 0442 |[Find All Duplicates in an Array](src/main/kotlin/g0401_0500/s0442_find_all_duplicates_in_an_array/Solution.kt)| Medium | Array, Hash_Table | 480 | 73.81
-| 0041 |[First Missing Positive](src/main/kotlin/g0001_0100/s0041_first_missing_positive/Solution.kt)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 357 | 97.17
-| 0697 |[Degree of an Array](src/main/kotlin/g0601_0700/s0697_degree_of_an_array/Solution.kt)| Easy | Array, Hash_Table | 289 | 84.62
-| 0532 |[K-diff Pairs in an Array](src/main/kotlin/g0501_0600/s0532_k_diff_pairs_in_an_array/Solution.kt)| Medium | Array, Hash_Table, Sorting, Binary_Search, Two_Pointers | 230 | 84.62
-| 0713 |[Subarray Product Less Than K](src/main/kotlin/g0701_0800/s0713_subarray_product_less_than_k/Solution.kt)| Medium | Array, Sliding_Window | 336 | 92.11
-| 1007 |[Minimum Domino Rotations For Equal Row](src/main/kotlin/g1001_1100/s1007_minimum_domino_rotations_for_equal_row/Solution.kt)| Medium | Array, Greedy | 421 | 50.00
-| 1306 |[Jump Game III](src/main/kotlin/g1301_1400/s1306_jump_game_iii/Solution.kt)| Medium | Array, Depth_First_Search, Breadth_First_Search | 291 | 100.00
-| 0456 |[132 Pattern](src/main/kotlin/g0401_0500/s0456_132_pattern/Solution.kt)| Medium | Array, Binary_Search, Stack, Ordered_Set, Monotonic_Stack | 434 | 100.00
+| 0442 |[数组中重复的数据](src/main/kotlin/g0401_0500/s0442_find_all_duplicates_in_an_array/Solution.kt)| Medium | Array, Hash_Table | 480 | 73.81
+| 0041 |[缺失的第一个正数](src/main/kotlin/g0001_0100/s0041_first_missing_positive/Solution.kt)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 357 | 97.17
+| 0697 |[数组的度](src/main/kotlin/g0601_0700/s0697_degree_of_an_array/Solution.kt)| Easy | Array, Hash_Table | 289 | 84.62
+| 0532 |[数组中的 k-diff 数对](src/main/kotlin/g0501_0600/s0532_k_diff_pairs_in_an_array/Solution.kt)| Medium | Array, Hash_Table, Sorting, Binary_Search, Two_Pointers | 230 | 84.62
+| 0713 |[乘积小于 K 的子数组](src/main/kotlin/g0701_0800/s0713_subarray_product_less_than_k/Solution.kt)| Medium | Array, Sliding_Window | 336 | 92.11
+| 1007 |[行相等的最少多米诺旋转](src/main/kotlin/g1001_1100/s1007_minimum_domino_rotations_for_equal_row/Solution.kt)| Medium | Array, Greedy | 421 | 50.00
+| 1306 |[跳跃游戏 III](src/main/kotlin/g1301_1400/s1306_jump_game_iii/Solution.kt)| Medium | Array, Depth_First_Search, Breadth_First_Search | 291 | 100.00
+| 0456 |[132 模式](src/main/kotlin/g0401_0500/s0456_132_pattern/Solution.kt)| Medium | Array, Binary_Search, Stack, Ordered_Set, Monotonic_Stack | 434 | 100.00
 | 0239 |[滑动窗口最大值](src/main/kotlin/g0201_0300/s0239_sliding_window_maximum/Solution.kt)| Hard | Top_100_Liked_Questions, Array, Heap_Priority_Queue, Sliding_Window, Queue, Monotonic_Queue, Big_O_Time_O(n\*k)_Space_O(n+k) | 1059 | 86.14
 
 #### Udemy Two Pointers
@@ -409,30 +409,30 @@
 |-|-|-|-|-|-
 | 0392 |[判断子序列](src/main/kotlin/g0301_0400/s0392_is_subsequence/Solution.kt)| Easy | String, Dynamic_Programming, Two_Pointers | 156 | 87.74
 | 0125 |[验证回文串](src/main/kotlin/g0101_0200/s0125_valid_palindrome/Solution.kt)| Easy | Top_Interview_Questions, String, Two_Pointers | 353 | 52.06
-| 0977 |[Squares of a Sorted Array](src/main/kotlin/g0901_1000/s0977_squares_of_a_sorted_array/Solution.kt)| Easy | Array, Sorting, Two_Pointers | 271 | 77.17
-| 0026 |[Remove Duplicates from Sorted Array](src/main/kotlin/g0001_0100/s0026_remove_duplicates_from_sorted_array/Solution.kt)| Easy | Top_Interview_Questions, Array, Two_Pointers | 249 | 67.38
-| 0042 |[Trapping Rain Water](src/main/kotlin/g0001_0100/s0042_trapping_rain_water/Solution.kt)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 189 | 99.37
-| 0015 |[3Sum](src/main/kotlin/g0001_0100/s0015_3sum/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 493 | 93.45
+| 0977 |[有序数组的平方](src/main/kotlin/g0901_1000/s0977_squares_of_a_sorted_array/Solution.kt)| Easy | Array, Sorting, Two_Pointers | 271 | 77.17
+| 0026 |[删除有序数组中的重复项](src/main/kotlin/g0001_0100/s0026_remove_duplicates_from_sorted_array/Solution.kt)| Easy | Top_Interview_Questions, Array, Two_Pointers | 249 | 67.38
+| 0042 |[接雨水](src/main/kotlin/g0001_0100/s0042_trapping_rain_water/Solution.kt)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 189 | 99.37
+| 0015 |[三数之和](src/main/kotlin/g0001_0100/s0015_3sum/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 493 | 93.45
 
 #### Udemy Famous Algorithm
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0053 |[Maximum Subarray](src/main/kotlin/g0001_0100/s0053_maximum_subarray/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 510 | 78.81
-| 0169 |[Majority Element](src/main/kotlin/g0101_0200/s0169_majority_element/Solution.kt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Counting, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 460 | 51.25
+| 0053 |[最大子数组和](src/main/kotlin/g0001_0100/s0053_maximum_subarray/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 510 | 78.81
+| 0169 |[多数元素](src/main/kotlin/g0101_0200/s0169_majority_element/Solution.kt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Counting, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 460 | 51.25
 
 #### Udemy Sorting Algorithms
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0912 |[Sort an Array](src/main/kotlin/g0901_1000/s0912_sort_an_array/Solution.kt)| Medium | Array, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Merge_Sort, Bucket_Sort, Counting_Sort, Radix_Sort | 606 | 98.48
+| 0912 |[排序数组](src/main/kotlin/g0901_1000/s0912_sort_an_array/Solution.kt)| Medium | Array, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Merge_Sort, Bucket_Sort, Counting_Sort, Radix_Sort | 606 | 98.48
 
 #### Udemy 2D Arrays/Matrix
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0304 |[Range Sum Query 2D - Immutable](src/main/kotlin/g0301_0400/s0304_range_sum_query_2d_immutable/NumMatrix.kt)| Medium | Array, Matrix, Design, Prefix_Sum | 1373 | 85.71
-| 0074 |[Search a 2D Matrix](src/main/kotlin/g0001_0100/s0074_search_a_2d_matrix/Solution.kt)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 159 | 74.46
+| 0304 |[二维区域和检索 - 矩阵不可变](src/main/kotlin/g0301_0400/s0304_range_sum_query_2d_immutable/NumMatrix.kt)| Medium | Array, Matrix, Design, Prefix_Sum | 1373 | 85.71
+| 0074 |[搜索二维矩阵](src/main/kotlin/g0001_0100/s0074_search_a_2d_matrix/Solution.kt)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 159 | 74.46
 | 0054 |[Spiral Matrix](src/main/kotlin/g0001_0100/s0054_spiral_matrix/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Simulation | 132 | 95.12
 | 0048 |[Rotate Image](src/main/kotlin/g0001_0100/s0048_rotate_image/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 160 | 90.11
 | 1572 |[Matrix Diagonal Sum](src/main/kotlin/g1501_1600/s1572_matrix_diagonal_sum/Solution.kt)| Easy | Array, Matrix | 221 | 67.61
@@ -443,7 +443,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0114 |[Flatten Binary Tree to Linked List](src/main/kotlin/g0101_0200/s0114_flatten_binary_tree_to_linked_list/Solution.kt)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Linked_List, Big_O_Time_O(N)_Space_O(N) | 191 | 93.10
+| 0114 |[二叉树展开为链表](src/main/kotlin/g0101_0200/s0114_flatten_binary_tree_to_linked_list/Solution.kt)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Linked_List, Big_O_Time_O(N)_Space_O(N) | 191 | 93.10
 | 0445 |[Add Two Numbers II](src/main/kotlin/g0401_0500/s0445_add_two_numbers_ii/Solution.kt)| Medium | Math, Stack, Linked_List | 240 | 82.61
 | 0328 |[Odd Even Linked List](src/main/kotlin/g0301_0400/s0328_odd_even_linked_list/Solution.kt)| Medium | Linked_List | 216 | 86.96
 | 0061 |[Rotate List](src/main/kotlin/g0001_0100/s0061_rotate_list/Solution.kt)| Medium | Two_Pointers, Linked_List | 160 | 92.22
@@ -467,31 +467,31 @@
 | 0144 |[二叉树的前序遍历](src/main/kotlin/g0101_0200/s0144_binary_tree_preorder_traversal/Solution.kt)| Easy | Depth_First_Search, Tree, Binary_Tree, Stack | 277 | 37.90
 | 0094 |[二叉树的中序遍历](src/main/kotlin/g0001_0100/s0094_binary_tree_inorder_traversal/Solution.kt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n) | 152 | 66.67
 | 0145 |[二叉树的后序遍历](src/main/kotlin/g0101_0200/s0145_binary_tree_postorder_traversal/Solution.kt)| Easy | Depth_First_Search, Tree, Binary_Tree, Stack | 211 | 80.00
-| 0102 |[Binary Tree Level Order Traversal](src/main/kotlin/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 198 | 95.14
-| 0103 |[Binary Tree Zigzag Level Order Traversal](src/main/kotlin/g0101_0200/s0103_binary_tree_zigzag_level_order_traversal/Solution.kt)| Medium | Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree | 176 | 71.62
-| 0108 |[Convert Sorted Array to Binary Search Tree](src/main/kotlin/g0101_0200/s0108_convert_sorted_array_to_binary_search_tree/Solution.kt)| Easy | Top_Interview_Questions, Array, Tree, Binary_Tree, Binary_Search_Tree, Divide_and_Conquer | 167 | 80.29
-| 1008 |[Construct Binary Search Tree from Preorder Traversal](src/main/kotlin/g1001_1100/s1008_construct_binary_search_tree_from_preorder_traversal/Solution.kt)| Medium | Array, Tree, Binary_Tree, Stack, Monotonic_Stack, Binary_Search_Tree | 145 | 100.00
-| 0543 |[Diameter of Binary Tree](src/main/kotlin/g0501_0600/s0543_diameter_of_binary_tree/Solution.kt)| Easy | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 307 | 43.93
-| 0938 |[Range Sum of BST](src/main/kotlin/g0901_1000/s0938_range_sum_of_bst/Solution.kt)| Easy | Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree | 356 | 55.36
-| 0100 |[Same Tree](src/main/kotlin/g0001_0100/s0100_same_tree/Solution.kt)| Easy | Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree | 134 | 86.63
-| 0226 |[Invert Binary Tree](src/main/kotlin/g0201_0300/s0226_invert_binary_tree/Solution.kt)| Easy | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 233 | 54.90
-| 0111 |[Minimum Depth of Binary Tree](src/main/kotlin/g0101_0200/s0111_minimum_depth_of_binary_tree/Solution.kt)| Easy | Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree | 525 | 90.51
-| 0104 |[Maximum Depth of Binary Tree](src/main/kotlin/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.kt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 166 | 83.53
-| 0110 |[Balanced Binary Tree](src/main/kotlin/g0101_0200/s0110_balanced_binary_tree/Solution.kt)| Easy | Depth_First_Search, Tree, Binary_Tree | 182 | 71.30
-| 0701 |[Insert into a Binary Search Tree](src/main/kotlin/g0701_0800/s0701_insert_into_a_binary_search_tree/Solution.kt)| Medium | Tree, Binary_Tree, Binary_Search_Tree | 311 | 79.03
-| 0297 |[Serialize and Deserialize Binary Tree](src/main/kotlin/g0201_0300/s0297_serialize_and_deserialize_binary_tree/Codec.kt)| Hard | String, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Design | 475 | 78.85
-| 0124 |[Binary Tree Maximum Path Sum](src/main/kotlin/g0101_0200/s0124_binary_tree_maximum_path_sum/Solution.kt)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 331 | 74.42
-| 0098 |[Validate Binary Search Tree](src/main/kotlin/g0001_0100/s0098_validate_binary_search_tree/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 190 | 61.62
-| 0337 |[House Robber III](src/main/kotlin/g0301_0400/s0337_house_robber_iii/Solution.kt)| Medium | Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree | 282 | 84.62
-| 0236 |[Lowest Common Ancestor of a Binary Tree](src/main/kotlin/g0201_0300/s0236_lowest_common_ancestor_of_a_binary_tree/Solution.kt)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 386 | 45.21
-| 0968 |[Binary Tree Cameras](src/main/kotlin/g0901_1000/s0968_binary_tree_cameras/Solution.kt)| Hard | Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree | 176 | 100.00
+| 0102 |[二叉树的层序遍历](src/main/kotlin/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 198 | 95.14
+| 0103 |[二叉树的锯齿形层序遍历](src/main/kotlin/g0101_0200/s0103_binary_tree_zigzag_level_order_traversal/Solution.kt)| Medium | Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree | 176 | 71.62
+| 0108 |[将有序数组转换为二叉搜索树](src/main/kotlin/g0101_0200/s0108_convert_sorted_array_to_binary_search_tree/Solution.kt)| Easy | Top_Interview_Questions, Array, Tree, Binary_Tree, Binary_Search_Tree, Divide_and_Conquer | 167 | 80.29
+| 1008 |[前序遍历构造二叉搜索树](src/main/kotlin/g1001_1100/s1008_construct_binary_search_tree_from_preorder_traversal/Solution.kt)| Medium | Array, Tree, Binary_Tree, Stack, Monotonic_Stack, Binary_Search_Tree | 145 | 100.00
+| 0543 |[二叉树的直径e](src/main/kotlin/g0501_0600/s0543_diameter_of_binary_tree/Solution.kt)| Easy | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 307 | 43.93
+| 0938 |[二叉搜索树的范围和](src/main/kotlin/g0901_1000/s0938_range_sum_of_bst/Solution.kt)| Easy | Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree | 356 | 55.36
+| 0100 |[相同的树](src/main/kotlin/g0001_0100/s0100_same_tree/Solution.kt)| Easy | Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree | 134 | 86.63
+| 0226 |[翻转二叉树](src/main/kotlin/g0201_0300/s0226_invert_binary_tree/Solution.kt)| Easy | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 233 | 54.90
+| 0111 |[二叉树的最小深度](src/main/kotlin/g0101_0200/s0111_minimum_depth_of_binary_tree/Solution.kt)| Easy | Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree | 525 | 90.51
+| 0104 |[二叉树的最大深度](src/main/kotlin/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.kt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 166 | 83.53
+| 0110 |[平衡二叉树](src/main/kotlin/g0101_0200/s0110_balanced_binary_tree/Solution.kt)| Easy | Depth_First_Search, Tree, Binary_Tree | 182 | 71.30
+| 0701 |[二叉搜索树中的插入操作](src/main/kotlin/g0701_0800/s0701_insert_into_a_binary_search_tree/Solution.kt)| Medium | Tree, Binary_Tree, Binary_Search_Tree | 311 | 79.03
+| 0297 |[二叉树的序列化与反序列化](src/main/kotlin/g0201_0300/s0297_serialize_and_deserialize_binary_tree/Codec.kt)| Hard | String, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Design | 475 | 78.85
+| 0124 |[二叉树中的最大路径和](src/main/kotlin/g0101_0200/s0124_binary_tree_maximum_path_sum/Solution.kt)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 331 | 74.42
+| 0098 |[验证二叉搜索树](src/main/kotlin/g0001_0100/s0098_validate_binary_search_tree/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 190 | 61.62
+| 0337 |[打家劫舍 III](src/main/kotlin/g0301_0400/s0337_house_robber_iii/Solution.kt)| Medium | Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree | 282 | 84.62
+| 0236 |[二叉树的最近公共祖先](src/main/kotlin/g0201_0300/s0236_lowest_common_ancestor_of_a_binary_tree/Solution.kt)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 386 | 45.21
+| 0968 |[监控二叉树](src/main/kotlin/g0901_1000/s0968_binary_tree_cameras/Solution.kt)| Hard | Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree | 176 | 100.00
 
 #### Udemy Trie and Heap
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0208 |[Implement Trie (Prefix Tree)](src/main/kotlin/g0201_0300/s0208_implement_trie_prefix_tree/Trie.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Design, Trie, Big_O_Time_O(word.length())_or_O(prefix.length())_Space_O(N) | 689 | 61.00
-| 0745 |[Prefix and Suffix Search](src/main/kotlin/g0701_0800/s0745_prefix_and_suffix_search/WordFilter.kt)| Hard | String, Design, Trie | 1638 | 100.00
+| 0208 |[实现 Trie (前缀树)](src/main/kotlin/g0201_0300/s0208_implement_trie_prefix_tree/Trie.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Design, Trie, Big_O_Time_O(word.length())_or_O(prefix.length())_Space_O(N) | 689 | 61.00
+| 0745 |[前缀和后缀搜索](src/main/kotlin/g0701_0800/s0745_prefix_and_suffix_search/WordFilter.kt)| Hard | String, Design, Trie | 1638 | 100.00
 
 #### Udemy Graph
 
@@ -514,7 +514,7 @@
 | 0213 |[House Robber II](src/main/kotlin/g0201_0300/s0213_house_robber_ii/Solution.kt)| Medium | Array, Dynamic_Programming | 257 | 59.62
 | 0509 |[Fibonacci Number](src/main/kotlin/g0501_0600/s0509_fibonacci_number/Solution.kt)| Easy | Dynamic_Programming, Math, Recursion, Memoization | 139 | 82.72
 | 0070 |[Climbing Stairs](src/main/kotlin/g0001_0100/s0070_climbing_stairs/Solution.kt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 124 | 71.98
-| 0064 |[Minimum Path Sum](src/main/kotlin/g0001_0100/s0064_minimum_path_sum/Solution.kt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 164 | 100.00
+| 0064 |[最小路径和](src/main/kotlin/g0001_0100/s0064_minimum_path_sum/Solution.kt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 164 | 100.00
 | 0300 |[Longest Increasing Subsequence](src/main/kotlin/g0201_0300/s0300_longest_increasing_subsequence/Solution.kt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 318 | 82.28
 | 1143 |[Longest Common Subsequence](src/main/kotlin/g1101_1200/s1143_longest_common_subsequence/Solution.kt)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 307 | 38.36
 | 0072 |[Edit Distance](src/main/kotlin/g0001_0100/s0072_edit_distance/Solution.kt)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 182 | 92.16
@@ -536,10 +536,10 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0191 |[Number of 1 Bits](src/main/kotlin/g0101_0200/s0191_number_of_1_bits/Solution.kt)| Easy | Top_Interview_Questions, Bit_Manipulation | 237 | 68.44
+| 0191 |[位1的个数](src/main/kotlin/g0101_0200/s0191_number_of_1_bits/Solution.kt)| Easy | Top_Interview_Questions, Bit_Manipulation | 237 | 68.44
 | 0389 |[Find the Difference](src/main/kotlin/g0301_0400/s0389_find_the_difference/Solution.kt)| Easy | String, Hash_Table, Sorting, Bit_Manipulation | 256 | 64.81
 | 0190 |[Reverse Bits](src/main/kotlin/g0101_0200/s0190_reverse_bits/Solution.kt)| Easy | Top_Interview_Questions, Bit_Manipulation, Divide_and_Conquer | 198 | 81.82
-| 0461 |[Hamming Distance](src/main/kotlin/g0401_0500/s0461_hamming_distance/Solution.kt)| Easy | Bit_Manipulation | 150 | 96.15
+| 0461 |[汉明距离](src/main/kotlin/g0401_0500/s0461_hamming_distance/Solution.kt)| Easy | Bit_Manipulation | 150 | 96.15
 | 1009 |[Complement of Base 10 Integer](src/main/kotlin/g1001_1100/s1009_complement_of_base_10_integer/Solution.kt)| Easy | Bit_Manipulation | 126 | 72.73
 | 0338 |[Counting Bits](src/main/kotlin/g0301_0400/s0338_counting_bits/Solution.kt)| Easy | Dynamic_Programming, Bit_Manipulation, Big_O_Time_O(num)_Space_O(num) | 186 | 99.26
 | 0371 |[Sum of Two Integers](src/main/kotlin/g0301_0400/s0371_sum_of_two_integers/Solution.kt)| Medium | Math, Bit_Manipulation | 129 | 95.45
@@ -565,7 +565,7 @@
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0001 |[Two Sum](src/main/kotlin/g0001_0100/s0001_two_sum/Solution.kt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 202 | 91.18
-| 0088 |[Merge Sorted Array](src/main/kotlin/g0001_0100/s0088_merge_sorted_array/Solution.kt)| Easy | Top_Interview_Questions, Array, Sorting, Two_Pointers | 170 | 69.74
+| 0088 |[合并两个有序数组](src/main/kotlin/g0001_0100/s0088_merge_sorted_array/Solution.kt)| Easy | Top_Interview_Questions, Array, Sorting, Two_Pointers | 170 | 69.74
 
 #### Day 3 Array
 
@@ -788,7 +788,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0236 |[Lowest Common Ancestor of a Binary Tree](src/main/kotlin/g0201_0300/s0236_lowest_common_ancestor_of_a_binary_tree/Solution.kt)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 386 | 45.21
+| 0236 |[二叉树的最近公共祖先](src/main/kotlin/g0201_0300/s0236_lowest_common_ancestor_of_a_binary_tree/Solution.kt)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 386 | 45.21
 | 0297 |[Serialize and Deserialize Binary Tree](src/main/kotlin/g0201_0300/s0297_serialize_and_deserialize_binary_tree/Codec.kt)| Hard | String, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Design | 475 | 78.85
 
 #### Day 19 Graph
@@ -869,7 +869,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0617 |[Merge Two Binary Trees](src/main/kotlin/g0601_0700/s0617_merge_two_binary_trees/Solution.kt)| Easy | Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree | 243 | 72.83
+| 0617 |[合并二叉树](src/main/kotlin/g0601_0700/s0617_merge_two_binary_trees/Solution.kt)| Easy | Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree | 243 | 72.83
 | 0116 |[Populating Next Right Pointers in Each Node](src/main/kotlin/g0101_0200/s0116_populating_next_right_pointers_in_each_node/Solution.kt)| Medium | Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Linked_List | 355 | 69.02
 
 #### Day 9 Breadth First Search Depth First Search
@@ -1048,27 +1048,27 @@
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0072 |[Edit Distance](src/main/kotlin/g0001_0100/s0072_edit_distance/Solution.kt)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 182 | 92.16
-| 0322 |[Coin Change](src/main/kotlin/g0301_0400/s0322_coin_change/Solution.kt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 332 | 50.68
-| 0343 |[Integer Break](src/main/kotlin/g0301_0400/s0343_integer_break/Solution.kt)| Medium | Dynamic_Programming, Math | 218 | 63.89
+| 0322 |[零钱兑换](src/main/kotlin/g0301_0400/s0322_coin_change/Solution.kt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 332 | 50.68
+| 0343 |[整数拆分](src/main/kotlin/g0301_0400/s0343_integer_break/Solution.kt)| Medium | Dynamic_Programming, Math | 218 | 63.89
 
 #### Day 19 Bit Manipulation
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0201 |[Bitwise AND of Numbers Range](src/main/kotlin/g0201_0300/s0201_bitwise_and_of_numbers_range/Solution.kt)| Medium | Bit_Manipulation | 368 | 80.00
+| 0201 |[数字范围按位与](src/main/kotlin/g0201_0300/s0201_bitwise_and_of_numbers_range/Solution.kt)| Medium | Bit_Manipulation | 368 | 80.00
 
 #### Day 20 Others
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0384 |[Shuffle an Array](src/main/kotlin/g0301_0400/s0384_shuffle_an_array/Solution.kt)| Medium | Array, Math, Randomized | 940 | 72.09
+| 0384 |[打乱数组](src/main/kotlin/g0301_0400/s0384_shuffle_an_array/Solution.kt)| Medium | Array, Math, Randomized | 940 | 72.09
 
 #### Day 21 Others
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0202 |[Happy Number](src/main/kotlin/g0201_0300/s0202_happy_number/Solution.kt)| Easy | Top_Interview_Questions, Hash_Table, Math, Two_Pointers | 261 | 45.08
-| 0149 |[Max Points on a Line](src/main/kotlin/g0101_0200/s0149_max_points_on_a_line/Solution.kt)| Hard | Top_Interview_Questions, Array, Hash_Table, Math, Geometry | 307 | 83.33
+| 0202 |[快乐数](src/main/kotlin/g0201_0300/s0202_happy_number/Solution.kt)| Easy | Top_Interview_Questions, Hash_Table, Math, Two_Pointers | 261 | 45.08
+| 0149 |[直线上最多的点数](src/main/kotlin/g0101_0200/s0149_max_points_on_a_line/Solution.kt)| Hard | Top_Interview_Questions, Array, Hash_Table, Math, Geometry | 307 | 83.33
 
 ### Binary Search I
 
@@ -1076,29 +1076,29 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0704 |[Binary Search](src/main/kotlin/g0701_0800/s0704_binary_search/Solution.kt)| Easy | Top_100_Liked_Questions, Array, Binary_Search | 261 | 77.91
-| 0374 |[Guess Number Higher or Lower](src/main/kotlin/g0301_0400/s0374_guess_number_higher_or_lower/Solution.kt)| Easy | Binary_Search, Interactive | 134 | 94.19
+| 0704 |[二分查找](src/main/kotlin/g0701_0800/s0704_binary_search/Solution.kt)| Easy | Top_100_Liked_Questions, Array, Binary_Search | 261 | 77.91
+| 0374 |[猜数字大小](src/main/kotlin/g0301_0400/s0374_guess_number_higher_or_lower/Solution.kt)| Easy | Binary_Search, Interactive | 134 | 94.19
 
 #### Day 2
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0035 |[Search Insert Position](src/main/kotlin/g0001_0100/s0035_search_insert_position/Solution.kt)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 159 | 93.03
-| 0852 |[Peak Index in a Mountain Array](src/main/kotlin/g0801_0900/s0852_peak_index_in_a_mountain_array/Solution.kt)| Medium | Array, Binary_Search | 433 | 94.29
+| 0035 |[搜索插入位置](src/main/kotlin/g0001_0100/s0035_search_insert_position/Solution.kt)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 159 | 93.03
+| 0852 |[山脉数组的峰顶索引](src/main/kotlin/g0801_0900/s0852_peak_index_in_a_mountain_array/Solution.kt)| Medium | Array, Binary_Search | 433 | 94.29
 
 #### Day 3
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0367 |[Valid Perfect Square](src/main/kotlin/g0301_0400/s0367_valid_perfect_square/Solution.kt)| Easy | Math, Binary_Search | 137 | 94.55
-| 1385 |[Find the Distance Value Between Two Arrays](src/main/kotlin/g1301_1400/s1385_find_the_distance_value_between_two_arrays/Solution.kt)| Easy | Array, Sorting, Binary_Search, Two_Pointers | 190 | 84.62
+| 0367 |[有效的完全平方数](src/main/kotlin/g0301_0400/s0367_valid_perfect_square/Solution.kt)| Easy | Math, Binary_Search | 137 | 94.55
+| 1385 |[两个数组间的距离值](src/main/kotlin/g1301_1400/s1385_find_the_distance_value_between_two_arrays/Solution.kt)| Easy | Array, Sorting, Binary_Search, Two_Pointers | 190 | 84.62
 
 #### Day 4
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0069 |[Sqrt(x)](src/main/kotlin/g0001_0100/s0069_sqrtx/Solution.kt)| Easy | Top_Interview_Questions, Math, Binary_Search | 140 | 94.72
-| 0744 |[Find Smallest Letter Greater Than Target](src/main/kotlin/g0701_0800/s0744_find_smallest_letter_greater_than_target/Solution.kt)| Easy | Array, Binary_Search | 162 | 100.00
+| 0069 |[x 的平方根](src/main/kotlin/g0001_0100/s0069_sqrtx/Solution.kt)| Easy | Top_Interview_Questions, Math, Binary_Search | 140 | 94.72
+| 0744 |[寻找比目标字母大的最小字母](src/main/kotlin/g0701_0800/s0744_find_smallest_letter_greater_than_target/Solution.kt)| Easy | Array, Binary_Search | 162 | 100.00
 
 #### Day 5
 
@@ -1446,7 +1446,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0377 |[Combination Sum IV](src/main/kotlin/g0301_0400/s0377_combination_sum_iv/Solution.kt)| Medium | Array, Dynamic_Programming | 217 | 72.41
+| 0377 |[组合总和 Ⅳ](src/main/kotlin/g0301_0400/s0377_combination_sum_iv/Solution.kt)| Medium | Array, Dynamic_Programming | 217 | 72.41
 | 0343 |[Integer Break](src/main/kotlin/g0301_0400/s0343_integer_break/Solution.kt)| Medium | Dynamic_Programming, Math | 218 | 63.89
 | 0279 |[Perfect Squares](src/main/kotlin/g0201_0300/s0279_perfect_squares/Solution.kt)| Medium | Dynamic_Programming, Math, Breadth_First_Search | 176 | 98.80
 
@@ -1566,7 +1566,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0150 |[Evaluate Reverse Polish Notation](src/main/kotlin/g0101_0200/s0150_evaluate_reverse_polish_notation/Solution.kt)| Medium | Top_Interview_Questions, Array, Math, Stack | 233 | 88.82
+| 0150 |[逆波兰表达式求值](src/main/kotlin/g0101_0200/s0150_evaluate_reverse_polish_notation/Solution.kt)| Medium | Top_Interview_Questions, Array, Math, Stack | 233 | 88.82
 | 0066 |[Plus One](src/main/kotlin/g0001_0100/s0066_plus_one/Solution.kt)| Easy | Top_Interview_Questions, Array, Math | 148 | 98.75
 
 #### Day 4
@@ -1587,28 +1587,28 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0739 |[Daily Temperatures](src/main/kotlin/g0701_0800/s0739_daily_temperatures/Solution.kt)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(n) | 936 | 80.54
-| 0058 |[Length of Last Word](src/main/kotlin/g0001_0100/s0058_length_of_last_word/Solution.kt)| Easy | String | 135 | 93.67
+| 0739 |[每日温度](src/main/kotlin/g0701_0800/s0739_daily_temperatures/Solution.kt)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(n) | 936 | 80.54
+| 0058 |[最后一个单词的长度](src/main/kotlin/g0001_0100/s0058_length_of_last_word/Solution.kt)| Easy | String | 135 | 93.67
 
 #### Day 7
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0048 |[Rotate Image](src/main/kotlin/g0001_0100/s0048_rotate_image/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 160 | 90.11
-| 1886 |[Determine Whether Matrix Can Be Obtained By Rotation](src/main/kotlin/g1801_1900/s1886_determine_whether_matrix_can_be_obtained_by_rotation/Solution.kt)| Easy | Array, Matrix | 147 | 85.71
+| 0048 |[旋转图像](src/main/kotlin/g0001_0100/s0048_rotate_image/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 160 | 90.11
+| 1886 |[判断矩阵经轮转后是否一致](src/main/kotlin/g1801_1900/s1886_determine_whether_matrix_can_be_obtained_by_rotation/Solution.kt)| Easy | Array, Matrix | 147 | 85.71
 
 #### Day 8
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0054 |[Spiral Matrix](src/main/kotlin/g0001_0100/s0054_spiral_matrix/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Simulation | 132 | 95.12
-| 0973 |[K Closest Points to Origin](src/main/kotlin/g0901_1000/s0973_k_closest_points_to_origin/Solution.kt)| Medium | Array, Math, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Geometry, Quickselect | 800 | 37.89
+| 0054 |[螺旋矩阵](src/main/kotlin/g0001_0100/s0054_spiral_matrix/Solution.kt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Simulation | 132 | 95.12
+| 0973 |[最接近原点的 K 个点](src/main/kotlin/g0901_1000/s0973_k_closest_points_to_origin/Solution.kt)| Medium | Array, Math, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Geometry, Quickselect | 800 | 37.89
 
 #### Day 9
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 1630 |[Arithmetic Subarrays](src/main/kotlin/g1601_1700/s1630_arithmetic_subarrays/Solution.kt)| Medium | Array, Sorting | 264 | 100.00
+| 1630 |[等差子数组](src/main/kotlin/g1601_1700/s1630_arithmetic_subarrays/Solution.kt)| Medium | Array, Sorting | 264 | 100.00
 | 0429 |[N-ary Tree Level Order Traversal](src/main/kotlin/g0401_0500/s0429_n_ary_tree_level_order_traversal/Solution.kt)| Medium | Breadth_First_Search, Tree | 248 | 75.86
 
 #### Day 10
