@@ -515,8 +515,8 @@
 | 0509     | [Fibonacci Number](src/main/kotlin/g0501_0600/s0509_fibonacci_number/Solution.kt)                             | Easy     | Dynamic_Programming, Math, Recursion, Memoization                                                                                                     | 139      | 82.72    |
 | 0070     | [Climbing Stairs](src/main/kotlin/g0001_0100/s0070_climbing_stairs/Solution.kt)                               | Easy     | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n)                                  | 124      | 71.98    |
 | 0064     | [最小路径和](src/main/kotlin/g0001_0100/s0064_minimum_path_sum/Solution.kt)                                   | Medium   | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n)                                                         | 164      | 100.00   |
-| 0300     | [Longest Increasing Subsequence](src/main/kotlin/g0201_0300/s0300_longest_increasing_subsequence/Solution.kt) | Medium   | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n)                                                 | 318      | 82.28    |
-| 1143     | [Longest Common Subsequence](src/main/kotlin/g1101_1200/s1143_longest_common_subsequence/Solution.kt)         | Medium   | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m)                                                                | 307      | 38.36    |
+| 0300     | [最长递增子序列](src/main/kotlin/g0201_0300/s0300_longest_increasing_subsequence/Solution.kt) | Medium   | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n)                                                 | 318      | 82.28    |
+| 1143     | [最长公共子序列](src/main/kotlin/g1101_1200/s1143_longest_common_subsequence/Solution.kt)         | Medium   | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m)                                                                | 307      | 38.36    |
 | 0072     | [Edit Distance](src/main/kotlin/g0001_0100/s0072_edit_distance/Solution.kt)                                   | Medium   | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2)                                                                   | 182      | 92.16    |
 | 0044     | [Wildcard Matching](src/main/kotlin/g0001_0100/s0044_wildcard_matching/Solution.kt)                           | Hard     | Top_Interview_Questions, String, Dynamic_Programming, Greedy, Recursion                                                                               | 220      | 84.85    |
 | 0010     | [Regular Expression Matching](src/main/kotlin/g0001_0100/s0010_regular_expression_matching/Solution.kt)       | Hard     | Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n)                                                     | 171      | 85.26    |
@@ -1006,20 +1006,20 @@
 | <!-- --> | <!-- -->                                                                        | <!-- --> | <!-- -->                                                                                                         | <!-- --> | <!-- --> |
 | -------- | ------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------- | -------- | -------- |
 | 0213     | [打家劫舍 II](src/main/kotlin/g0201_0300/s0213_house_robber_ii/Solution.kt) | Medium   | Array, Dynamic_Programming                                                                                       | 257      | 59.62    |
-| 0055     | [Jump Game](src/main/kotlin/g0001_0100/s0055_jump_game/Solution.kt)             | Medium   | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 332      | 89.35    |
+| 0055     | [跳跃游戏](src/main/kotlin/g0001_0100/s0055_jump_game/Solution.kt)             | Medium   | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 332      | 89.35    |
 
 #### Day 13 Dynamic Programming
 
 | <!-- --> | <!-- -->                                                                  | <!-- --> | <!-- -->                                                                                                                     | <!-- --> | <!-- --> |
 | -------- | ------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------- | -------- | -------- |
-| 0045     | [Jump Game II](src/main/kotlin/g0001_0100/s0045_jump_game_ii/Solution.kt) | Medium   | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1)                                      | 208      | 93.37    |
-| 0062     | [Unique Paths](src/main/kotlin/g0001_0100/s0062_unique_paths/Solution.kt) | Medium   | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Big_O_Time_O(m\*n)_Space_O(m\*n) | 118      | 94.65    |
+| 0045     | [跳跃游戏 II](src/main/kotlin/g0001_0100/s0045_jump_game_ii/Solution.kt) | Medium   | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1)                                      | 208      | 93.37    |
+| 0062     | [不同路径](src/main/kotlin/g0001_0100/s0062_unique_paths/Solution.kt) | Medium   | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Big_O_Time_O(m\*n)_Space_O(m\*n) | 118      | 94.65    |
 
 #### Day 14 Dynamic Programming
 
 | <!-- --> | <!-- -->                                                                                                    | <!-- --> | <!-- -->                                                                                                  | <!-- --> | <!-- --> |
 | -------- | ----------------------------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------- | -------- | -------- |
-| 0005     | [Longest Palindromic Substring](src/main/kotlin/g0001_0100/s0005_longest_palindromic_substring/Solution.kt) | Medium   | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 162      | 99.00    |
+| 0005     | [最长回文子串](src/main/kotlin/g0001_0100/s0005_longest_palindromic_substring/Solution.kt) | Medium   | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 162      | 99.00    |
 | 0413     | [Arithmetic Slices](src/main/kotlin/g0401_0500/s0413_arithmetic_slices/Solution.kt)                         | Medium   | Array, Dynamic_Programming                                                                                | 156      | 100.00   |
 
 #### Day 15 Dynamic Programming
@@ -1033,21 +1033,21 @@
 
 | <!-- --> | <!-- -->                                                                                                                          | <!-- --> | <!-- -->                                                                                              | <!-- --> | <!-- --> |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------------------------------- | -------- | -------- |
-| 0300     | [Longest Increasing Subsequence](src/main/kotlin/g0201_0300/s0300_longest_increasing_subsequence/Solution.kt)                     | Medium   | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 318      | 82.28    |
-| 0673     | [Number of Longest Increasing Subsequence](src/main/kotlin/g0601_0700/s0673_number_of_longest_increasing_subsequence/Solution.kt) | Medium   | Array, Dynamic_Programming, Segment_Tree, Binary_Indexed_Tree                                         | 226      | 91.67    |
+| 0300     | [最长递增子序列](src/main/kotlin/g0201_0300/s0300_longest_increasing_subsequence/Solution.kt)                     | Medium   | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 318      | 82.28    |
+| 0673     | [最长递增子序列的个数](src/main/kotlin/g0601_0700/s0673_number_of_longest_increasing_subsequence/Solution.kt) | Medium   | Array, Dynamic_Programming, Segment_Tree, Binary_Indexed_Tree                                         | 226      | 91.67    |
 
 #### Day 17 Dynamic Programming
 
 | <!-- --> | <!-- -->                                                                                                          | <!-- --> | <!-- -->                                                                               | <!-- --> | <!-- --> |
 | -------- | ----------------------------------------------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------------------- | -------- | -------- |
-| 1143     | [Longest Common Subsequence](src/main/kotlin/g1101_1200/s1143_longest_common_subsequence/Solution.kt)             | Medium   | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 307      | 38.36    |
-| 0583     | [Delete Operation for Two Strings](src/main/kotlin/g0501_0600/s0583_delete_operation_for_two_strings/Solution.kt) | Medium   | String, Dynamic_Programming                                                            | 197      | 100.00   |
+| 1143     | [最长公共子序列](src/main/kotlin/g1101_1200/s1143_longest_common_subsequence/Solution.kt)             | Medium   | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 307      | 38.36    |
+| 0583     | [两个字符串的删除操作](src/main/kotlin/g0501_0600/s0583_delete_operation_for_two_strings/Solution.kt) | Medium   | String, Dynamic_Programming                                                            | 197      | 100.00   |
 
 #### Day 18 Dynamic Programming
 
 | <!-- --> | <!-- -->                                                                    | <!-- --> | <!-- -->                                                                                                      | <!-- --> | <!-- --> |
 | -------- | --------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------- | -------- | -------- |
-| 0072     | [Edit Distance](src/main/kotlin/g0001_0100/s0072_edit_distance/Solution.kt) | Medium   | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2)                           | 182      | 92.16    |
+| 0072     | [编辑距离](src/main/kotlin/g0001_0100/s0072_edit_distance/Solution.kt) | Medium   | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2)                           | 182      | 92.16    |
 | 0322     | [零钱兑换](src/main/kotlin/g0301_0400/s0322_coin_change/Solution.kt)        | Medium   | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 332      | 50.68    |
 | 0343     | [整数拆分](src/main/kotlin/g0301_0400/s0343_integer_break/Solution.kt)      | Medium   | Dynamic_Programming, Math                                                                                     | 218      | 63.89    |
 
@@ -1104,22 +1104,22 @@
 
 | <!-- --> | <!-- -->                                                                                                                                                        | <!-- --> | <!-- -->                                                                                               | <!-- --> | <!-- --> |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------ | -------- | -------- |
-| 0278     | [First Bad Version](src/main/kotlin/g0201_0300/s0278_first_bad_version/Solution.kt)                                                                             | Easy     | Binary_Search, Interactive                                                                             | 349      | 76.86    |
-| 0034     | [Find First and Last Position of Element in Sorted Array](src/main/kotlin/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/Solution.kt) | Medium   | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 174      | 100.00   |
+| 0278     | [第一个错误的版本](src/main/kotlin/g0201_0300/s0278_first_bad_version/Solution.kt)                                                                             | Easy     | Binary_Search, Interactive                                                                             | 349      | 76.86    |
+| 0034     | [在排序数组中查找元素的第一个和最后一个位置](src/main/kotlin/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/Solution.kt) | Medium   | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 174      | 100.00   |
 
 #### Day 6
 
 | <!-- --> | <!-- -->                                                                                                | <!-- --> | <!-- -->             | <!-- --> | <!-- --> |
 | -------- | ------------------------------------------------------------------------------------------------------- | -------- | -------------------- | -------- | -------- |
-| 0441     | [Arranging Coins](src/main/kotlin/g0401_0500/s0441_arranging_coins/Solution.kt)                         | Easy     | Math, Binary_Search  | 150      | 84.21    |
-| 1539     | [Kth Missing Positive Number](src/main/kotlin/g1501_1600/s1539_kth_missing_positive_number/Solution.kt) | Easy     | Array, Binary_Search | 153      | 100.00   |
+| 0441     | [排列硬币](src/main/kotlin/g0401_0500/s0441_arranging_coins/Solution.kt)                         | Easy     | Math, Binary_Search  | 150      | 84.21    |
+| 1539     | [第 k 个缺失的正整数](src/main/kotlin/g1501_1600/s1539_kth_missing_positive_number/Solution.kt) | Easy     | Array, Binary_Search | 153      | 100.00   |
 
 #### Day 7
 
 | <!-- --> | <!-- -->                                                                                                                                                    | <!-- --> | <!-- -->                           | <!-- --> | <!-- --> |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------- | -------- | -------- |
-| 0167     | [Two Sum II - Input Array Is Sorted](src/main/kotlin/g0101_0200/s0167_two_sum_ii_input_array_is_sorted/Solution.kt)                                         | Medium   | Array, Binary_Search, Two_Pointers | 403      | 68.74    |
-| 1608     | [Special Array With X Elements Greater Than or Equal X](src/main/kotlin/g1601_1700/s1608_special_array_with_x_elements_greater_than_or_equal_x/Solution.kt) | Easy     | Array, Sorting, Binary_Search      | 147      | 81.82    |
+| 0167     | [两数之和 II - 输入有序数组](src/main/kotlin/g0101_0200/s0167_two_sum_ii_input_array_is_sorted/Solution.kt)                                         | Medium   | Array, Binary_Search, Two_Pointers | 403      | 68.74    |
+| 1608     | [特殊数组的特征值](src/main/kotlin/g1601_1700/s1608_special_array_with_x_elements_greater_than_or_equal_x/Solution.kt) | Easy     | Array, Sorting, Binary_Search      | 147      | 81.82    |
 
 #### Day 8
 
@@ -1147,13 +1147,13 @@
 | <!-- --> | <!-- -->                                                                                                                            | <!-- --> | <!-- -->                                                                                               | <!-- --> | <!-- --> |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------ | -------- | -------- |
 | 1855     | [Maximum Distance Between a Pair of Values](src/main/kotlin/g1801_1900/s1855_maximum_distance_between_a_pair_of_values/Solution.kt) | Medium   | Array, Greedy, Binary_Search, Two_Pointers                                                             | 458      | 100.00   |
-| 0033     | [Search in Rotated Sorted Array](src/main/kotlin/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.kt)                       | Medium   | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 151      | 93.77    |
+| 0033     | [搜索旋转排序数组](src/main/kotlin/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.kt)                       | Medium   | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 151      | 93.77    |
 
 #### Day 12
 
 | <!-- --> | <!-- -->                                                                                                                  | <!-- --> | <!-- -->                                                                          | <!-- --> | <!-- --> |
 | -------- | ------------------------------------------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------- | -------- | -------- |
-| 0153     | [Find Minimum in Rotated Sorted Array](src/main/kotlin/g0101_0200/s0153_find_minimum_in_rotated_sorted_array/Solution.kt) | Medium   | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_N)_Space_O(log_N) | 262      | 60.96    |
+| 0153     | [寻找旋转排序数组中的最小值](src/main/kotlin/g0101_0200/s0153_find_minimum_in_rotated_sorted_array/Solution.kt) | Medium   | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_N)_Space_O(log_N) | 262      | 60.96    |
 
 ### Binary Search II
 
@@ -1161,21 +1161,21 @@
 
 | <!-- --> | <!-- -->                                                                                            | <!-- --> | <!-- -->                                            | <!-- --> | <!-- --> |
 | -------- | --------------------------------------------------------------------------------------------------- | -------- | --------------------------------------------------- | -------- | -------- |
-| 0209     | [Minimum Size Subarray Sum](src/main/kotlin/g0201_0300/s0209_minimum_size_subarray_sum/Solution.kt) | Medium   | Array, Binary_Search, Prefix_Sum, Sliding_Window    | 315      | 96.73    |
-| 0611     | [Valid Triangle Number](src/main/kotlin/g0601_0700/s0611_valid_triangle_number/Solution.kt)         | Medium   | Array, Sorting, Greedy, Binary_Search, Two_Pointers | 203      | 100.00   |
+| 0209     | [长度最小的子数组](src/main/kotlin/g0201_0300/s0209_minimum_size_subarray_sum/Solution.kt) | Medium   | Array, Binary_Search, Prefix_Sum, Sliding_Window    | 315      | 96.73    |
+| 0611     | [有效三角形的个数](src/main/kotlin/g0601_0700/s0611_valid_triangle_number/Solution.kt)         | Medium   | Array, Sorting, Greedy, Binary_Search, Two_Pointers | 203      | 100.00   |
 
 #### Day 2
 
 | <!-- --> | <!-- -->                                                                                                                                  | <!-- --> | <!-- -->                                                         | <!-- --> | <!-- --> |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------- | -------- | -------- |
-| 0658     | [Find K Closest Elements](src/main/kotlin/g0601_0700/s0658_find_k_closest_elements/Solution.kt)                                           | Medium   | Array, Sorting, Binary_Search, Two_Pointers, Heap_Priority_Queue | 375      | 95.16    |
+| 0658     | [找到 K 个最接近的元素](src/main/kotlin/g0601_0700/s0658_find_k_closest_elements/Solution.kt)                                           | Medium   | Array, Sorting, Binary_Search, Two_Pointers, Heap_Priority_Queue | 375      | 95.16    |
 | 1894     | [Find the Student that Will Replace the Chalk](src/main/kotlin/g1801_1900/s1894_find_the_student_that_will_replace_the_chalk/Solution.kt) | Medium   | Array, Binary_Search, Simulation, Prefix_Sum                     | 520      | 50.00    |
 
 #### Day 3
 
 | <!-- --> | <!-- -->                                                                                                        | <!-- --> | <!-- -->                                                                                              | <!-- --> | <!-- --> |
 | -------- | --------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------------------------------- | -------- | -------- |
-| 0300     | [Longest Increasing Subsequence](src/main/kotlin/g0201_0300/s0300_longest_increasing_subsequence/Solution.kt)   | Medium   | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 318      | 82.28    |
+| 0300     | [最长递增子序列](src/main/kotlin/g0201_0300/s0300_longest_increasing_subsequence/Solution.kt)   | Medium   | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 318      | 82.28    |
 | 1760     | [Minimum Limit of Balls in a Bag](src/main/kotlin/g1701_1800/s1760_minimum_limit_of_balls_in_a_bag/Solution.kt) | Medium   | Array, Binary_Search                                                                                  | 460      | 100.00   |
 
 #### Day 4
@@ -1644,7 +1644,7 @@
 | <!-- --> | <!-- -->                                                                                                    | <!-- --> | <!-- -->                                                                                              | <!-- --> | <!-- --> |
 | -------- | ----------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------------------------------- | -------- | -------- |
 | 0143     | [Reorder List](src/main/kotlin/g0101_0200/s0143_reorder_list/Solution.kt)                                   | Medium   | Two_Pointers, Stack, Linked_List, Recursion                                                           | 395      | 82.26    |
-| 0138     | [Copy List with Random Pointer](src/main/kotlin/g0101_0200/s0138_copy_list_with_random_pointer/Solution.kt) | Medium   | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 274      | 80.58    |
+| 0138     | [随机链表的复制](src/main/kotlin/g0101_0200/s0138_copy_list_with_random_pointer/Solution.kt) | Medium   | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 274      | 80.58    |
 
 #### Day 15
 
@@ -1880,6 +1880,47 @@ class Solution {
                 left == null && right == null
             }
         }?: false
+    }
+}
+```
+
+897 递增顺序搜索树
+```kotlin
+/**
+ * Example:
+ * var ti = TreeNode(5)
+ * var v = ti.`val`
+ * Definition for a binary tree node.
+ * class TreeNode(var `val`: Int) {
+ *     var left: TreeNode? = null
+ *     var right: TreeNode? = null
+ * }
+ */
+class Solution {
+    fun increasingBST(root: TreeNode): TreeNode? {
+        val res: ArrayList<Int> = ArrayList()
+        // 先对输入的二叉搜索树执行中序遍历，将结果保存到一个列表中；
+        inOrder(root, res)
+
+        // 然后对res操作，创建等价的只含有右节点的二叉搜索树，其过程等价于根据节点值创建一个链表。
+        val dump = TreeNode(-1)
+        var currenNode = dump
+        res.forEach {
+            currenNode.right = TreeNode(it)
+            currenNode = currenNode.right!!
+        }
+        return dump.right
+    }
+
+    /**
+     * 中序遍历  对输入的二叉搜索树执行中序遍历，将结果保存到一个列表中
+     */
+    fun inOrder(node: TreeNode?, res: ArrayList<Int>) {
+        if (node == null) return
+        inOrder(node.left, res)
+        // 将node的值 加入到 res中
+        res.add(node.`val`)
+        inOrder(node.right, res)
     }
 }
 ```
