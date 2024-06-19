@@ -471,7 +471,7 @@
 | 0103     | [二叉树的锯齿形层序遍历](src/main/kotlin/g0101_0200/s0103_binary_tree_zigzag_level_order_traversal/Solution.kt)             | Medium   | Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree                                                                             | 176      | 71.62    |
 | 0108     | [将有序数组转换为二叉搜索树](src/main/kotlin/g0101_0200/s0108_convert_sorted_array_to_binary_search_tree/Solution.kt)       | Easy     | Top_Interview_Questions, Array, Tree, Binary_Tree, Binary_Search_Tree, Divide_and_Conquer                                                    | 167      | 80.29    |
 | 1008     | [前序遍历构造二叉搜索树](src/main/kotlin/g1001_1100/s1008_construct_binary_search_tree_from_preorder_traversal/Solution.kt) | Medium   | Array, Tree, Binary_Tree, Stack, Monotonic_Stack, Binary_Search_Tree                                                                         | 145      | 100.00   |
-| 0543     | [二叉树的直径e](src/main/kotlin/g0501_0600/s0543_diameter_of_binary_tree/Solution.kt)                                       | Easy     | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n)                                                   | 307      | 43.93    |
+| 0543     | [二叉树的直径](src/main/kotlin/g0501_0600/s0543_diameter_of_binary_tree/Solution.kt)                                        | Easy     | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n)                                                   | 307      | 43.93    |
 | 0938     | [二叉搜索树的范围和](src/main/kotlin/g0901_1000/s0938_range_sum_of_bst/Solution.kt)                                         | Easy     | Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree                                                                                    | 356      | 55.36    |
 | 0100     | [相同的树](src/main/kotlin/g0001_0100/s0100_same_tree/Solution.kt)                                                          | Easy     | Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree                                                                                  | 134      | 86.63    |
 | 0226     | [翻转二叉树](src/main/kotlin/g0201_0300/s0226_invert_binary_tree/Solution.kt)                                               | Easy     | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n)                             | 233      | 54.90    |
@@ -695,7 +695,7 @@
 | -------- | ------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------- | -------- | -------- |
 | 0334     | [Increasing Triplet Subsequence](src/main/kotlin/g0301_0400/s0334_increasing_triplet_subsequence/Solution.kt) | Medium   | Array, Greedy                                                                      | 672      | 60.61    |
 | 0238     | [Product of Array Except Self](src/main/kotlin/g0201_0300/s0238_product_of_array_except_self/Solution.kt)     | Medium   | Top_100_Liked_Questions, Array, Prefix_Sum, Big_O_Time_O(n^2)_Space_O(n)           | 669      | 48.96    |
-| 0560     | [Subarray Sum Equals K](src/main/kotlin/g0501_0600/s0560_subarray_sum_equals_k/Solution.kt)                   | Medium   | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Big_O_Time_O(n)_Space_O(n) | 692      | 53.27    |
+| 0560     | [和为 K 的子数组](src/main/kotlin/g0501_0600/s0560_subarray_sum_equals_k/Solution.kt)                         | Medium   | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Big_O_Time_O(n)_Space_O(n) | 692      | 53.27    |
 
 #### Day 6 String
 
@@ -828,7 +828,7 @@
 | <!-- --> | <!-- -->                                                                                            | <!-- --> | <!-- -->                                                                                                | <!-- --> | <!-- --> |
 | -------- | --------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------- | -------- | -------- |
 | 0977     | [Squares of a Sorted Array](src/main/kotlin/g0901_1000/s0977_squares_of_a_sorted_array/Solution.kt) | Easy     | Array, Sorting, Two_Pointers                                                                            | 271      | 77.17    |
-| 0189     | [Rotate Array](src/main/kotlin/g0101_0200/s0189_rotate_array/Solution.kt)                           | Medium   | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 483      | 86.95    |
+| 0189     | [轮转数组/旋转数组](src/main/kotlin/g0101_0200/s0189_rotate_array/Solution.kt)                      | Medium   | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 483      | 86.95    |
 
 #### Day 3 Two Pointers
 
@@ -867,10 +867,10 @@
 
 #### Day 8 Breadth First Search Depth First Search
 
-| <!-- --> | <!-- -->                                                                                                                                | <!-- --> | <!-- -->                                                                                          | <!-- --> | <!-- --> |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------- | -------- | -------- |
-| 0617     | [合并二叉树](src/main/kotlin/g0601_0700/s0617_merge_two_binary_trees/Solution.kt)                                                       | Easy     | Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree                                       | 243      | 72.83    |
-| 0116     | [Populating Next Right Pointers in Each Node](src/main/kotlin/g0101_0200/s0116_populating_next_right_pointers_in_each_node/Solution.kt) | Medium   | Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Linked_List | 355      | 69.02    |
+| <!-- --> | <!-- -->                                                                                                                     | <!-- --> | <!-- -->                                                                                          | <!-- --> | <!-- --> |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------- | -------- | -------- |
+| 0617     | [合并二叉树](src/main/kotlin/g0601_0700/s0617_merge_two_binary_trees/Solution.kt)                                            | Easy     | Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree                                       | 243      | 72.83    |
+| 0116     | [填充每个节点的下一个右侧节点指针](src/main/kotlin/g0101_0200/s0116_populating_next_right_pointers_in_each_node/Solution.kt) | Medium   | Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Linked_List | 355      | 69.02    |
 
 #### Day 9 Breadth First Search Depth First Search
 
@@ -1352,17 +1352,17 @@
 
 #### Day 8
 
-| <!-- --> | <!-- -->                                                                                                                                                  | <!-- --> | <!-- -->                           | <!-- --> | <!-- --> |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------- | -------- | -------- |
-| 0309     | [买卖股票的最佳时机含冷冻期](src/main/kotlin/g0301_0400/s0309_best_time_to_buy_and_sell_stock_with_cooldown/Solution.kt)               | Medium   | Array, Dynamic_Programming         | 272      | 73.33    |
+| <!-- --> | <!-- -->                                                                                                                        | <!-- --> | <!-- -->                           | <!-- --> | <!-- --> |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------- | -------- | -------- |
+| 0309     | [买卖股票的最佳时机含冷冻期](src/main/kotlin/g0301_0400/s0309_best_time_to_buy_and_sell_stock_with_cooldown/Solution.kt)        | Medium   | Array, Dynamic_Programming         | 272      | 73.33    |
 | 0714     | [买卖股票的最佳时机含手续费](src/main/kotlin/g0701_0800/s0714_best_time_to_buy_and_sell_stock_with_transaction_fee/Solution.kt) | Medium   | Array, Dynamic_Programming, Greedy | 417      | 90.91    |
 
 #### Day 9
 
-| <!-- --> | <!-- -->                                                                                | <!-- --> | <!-- -->                                                                                                                                              | <!-- --> | <!-- --> |
-| -------- | --------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------- |
-| 0139     | [Word Break](src/main/kotlin/g0101_0200/s0139_word_break/Solution.kt)                   | Medium   | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 197      | 87.17    |
-| 0042     | [Trapping Rain Water](src/main/kotlin/g0001_0100/s0042_trapping_rain_water/Solution.kt) | Hard     | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1)        | 189      | 99.37    |
+| <!-- --> | <!-- -->                                                                   | <!-- --> | <!-- -->                                                                                                                                              | <!-- --> | <!-- --> |
+| -------- | -------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------- |
+| 0139     | [Word Break](src/main/kotlin/g0101_0200/s0139_word_break/Solution.kt)      | Medium   | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 197      | 87.17    |
+| 0042     | [接雨水](src/main/kotlin/g0001_0100/s0042_trapping_rain_water/Solution.kt) | Hard     | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1)        | 189      | 99.37    |
 
 #### Day 10
 
@@ -1408,10 +1408,10 @@
 
 #### Day 16
 
-| <!-- --> | <!-- -->                                                                          | <!-- --> | <!-- -->                                                                                      | <!-- --> | <!-- --> |
-| -------- | --------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------- | -------- | -------- |
-| 0064     | [最小路径和](src/main/kotlin/g0001_0100/s0064_minimum_path_sum/Solution.kt) | Medium   | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 164      | 100.00   |
-| 0221     | [Maximal Square](src/main/kotlin/g0201_0300/s0221_maximal_square/Solution.kt)     | Medium   | Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n)                          | 614      | 44.00    |
+| <!-- --> | <!-- -->                                                                      | <!-- --> | <!-- -->                                                                                      | <!-- --> | <!-- --> |
+| -------- | ----------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------- | -------- | -------- |
+| 0064     | [最小路径和](src/main/kotlin/g0001_0100/s0064_minimum_path_sum/Solution.kt)   | Medium   | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 164      | 100.00   |
+| 0221     | [Maximal Square](src/main/kotlin/g0201_0300/s0221_maximal_square/Solution.kt) | Medium   | Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n)                          | 614      | 44.00    |
 
 #### Day 17
 
@@ -2023,3 +2023,38 @@ class CBTInserter(val root: TreeNode?) {
  * var param_2 = obj.get_root()
  */
 ```
+
+814 二叉树剪枝
+```kotlin
+fun pruneTree(root: TreeNode?): TreeNode? {
+        var newRoot = TreeNode(1)
+        newRoot.left = root
+        explore(newRoot)
+        var ans = newRoot.left
+        newRoot.left = null
+        return ans
+    }
+    fun explore(root: TreeNode?): TreeNode? {
+        return root?.apply{
+            explore(left)
+            if(need(left)){
+                left = null
+            }
+            explore(right)
+            if(need(right)){
+                right = null
+            }
+        }
+    }
+    fun need(t : TreeNode?):Boolean{
+        return t?.run{
+            if(`val` == 1){
+                false
+            }else{
+                left == null && right == null
+            }
+        }?: false
+    }
+```
+
+二叉树的层平均值
